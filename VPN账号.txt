@@ -1,0 +1,4 @@
+https://portal.shadowsocks.to/clientarea.php?action=productdetails&id=1002848
+
+
+https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/4-ios-settings.md
